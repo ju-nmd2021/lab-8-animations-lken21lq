@@ -50,7 +50,7 @@
 }
 .btn-1:hover{
    cursor: pointer;
-   box-shadow: 0 2px 50px 0 #00c2ba,0 20px 100px 0 #ec0505, 0 50px 150px 0 #ff0000, 0 70px 200px 0 #caff08;
+   box-shadow: 0 2px 50px 0 #00c2ba,0 20px 100px 0 #ec0505, 0 50px 150px 0 #ff0000, 0 70px 200px 0 #caff08, 0 90px 300px #ff02f2;
    transition: 2s;
 }
 
